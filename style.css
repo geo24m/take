@@ -1,0 +1,37 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #959595;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+header {
+	background:url('../img/personne.jpg') center/ cover no-repeat;
+	width: 100%;
+	max-height: 950px;
+	padding-top: 50px;
+}
+
+.section1 {
+	margin-top: 155px;
+}
+
+.slogon {
+	margin-top: 150px;
+	color: #FFF;
+}
+
+.slogon-title {
+	font-size: 60px;
+	font-weight: 300;
+}
+
+.section2-tile {
+	color: #222626;
+	font-size: 36px;
+	font-weight: 300;
+}
+
+.section2-p2 {
+	margin-top: 200px;
+}
